@@ -1,0 +1,7 @@
+.completedTodo {
+    text-decoration: line-through;
+}
+
+.incompleteTodo {
+    text-decoration: none;
+}
